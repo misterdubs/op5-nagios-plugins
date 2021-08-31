@@ -36,8 +36,8 @@ Options:
 EOM
 
 # Cisco free and used memory OID Values
-FREEOID=".1.3.6.1.4.1.9.9.48.1.1.1.6.1.1"
-USEDOID=".1.3.6.1.4.1.9.9.48.1.1.1.5.1.1"
+FREEOID=".1.3.6.1.4.1.9.9.48.1.1.1.6.1"
+USEDOID=".1.3.6.1.4.1.9.9.48.1.1.1.5.1"
 
 # Parse arguments
 while getopts "U:H:a:x:A:X:w:c:h" flag
